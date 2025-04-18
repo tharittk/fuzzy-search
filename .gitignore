@@ -1,0 +1,5 @@
+*.env
+*.pdf
+storage/
+chroma_store/
+__pycache__/
